@@ -1,0 +1,25 @@
+.card {
+    width: calc(100% / 4 - 20px);
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #111;
+    border-radius: 20px;
+    border-top-right-radius: 0;
+    transition: all ease-in-out 0.3s;
+}
+
+.card:hover {
+    border-color: #6c0;
+}
+
+h3 {
+    display: inline-block;
+    margin-right: 10px;
+    color: #0094ff;
+}
+
+p {
+    font-weight: 300;
+    display: inline-block;
+}
