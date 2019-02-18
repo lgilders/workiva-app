@@ -15,7 +15,7 @@ class GraphDisplay extends Component {
     render() {
         return (
             <div className="graphDisplay">
-                <Line data={chartData} options={chartOptions} width={1200} height={550}></Line>
+                <Line data={chartData} options={chartOptions} width={1200} height={350}></Line>
             </div>
         )
     }
