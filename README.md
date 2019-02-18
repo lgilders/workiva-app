@@ -1,15 +1,12 @@
 # workiva-app
 Sample React Application Built for a Test Project
 
-### Installation
-Clone the repository.
-
-Run npm install in the root directory.
-
 ### Run application
-Run npm start in the root directory.
+Clone this repository.
 
-###### Notes
+In the root directory, run `npm install && npm start`
+
+### Notes
 Project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Also uses the following other libraries:
